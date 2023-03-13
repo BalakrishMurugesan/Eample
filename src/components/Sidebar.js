@@ -12,7 +12,7 @@ function Sidebar() {
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup>{context.username}</div>
+                <div class="sidebar-brand-text mx-3">Bala <sup>2</sup>{context.username}</div>
             </a>
 
 
